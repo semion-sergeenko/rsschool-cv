@@ -1,4 +1,5 @@
-# Semion Cyargeenka #
-### semion1@yandex.ru ###
-### no face no name no number ###
-### I heard a little about python and java ###
+# Semion Cyargeenka 
+### semion1@yandex.ru 
+### no face no name no number 
+### I heard a little about python and java 
+### English level A-2 
