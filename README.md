@@ -1,1 +1,1 @@
-# rsschool-cv
+https://semion-sergeenko.github.io/rsschool-cv/
